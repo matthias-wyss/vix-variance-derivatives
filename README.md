@@ -74,4 +74,4 @@ pip install numpy matplotlib scipy sympy pandas openpyxl
 
 **Course:** FIN-404 – Derivatives  
 **Instructor:** Prof. Julien Hugonnier  
-**Program:** EPFL – Master in Financial Engineering, Year 2
+**Program:** EPFL – Master in Financial Engineering, Year 1
